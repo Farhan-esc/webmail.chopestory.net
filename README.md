@@ -1,1 +1,1 @@
-ftp.webmail.chopestory.net
+webmail.chopestory.net
